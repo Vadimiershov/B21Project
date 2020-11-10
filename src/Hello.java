@@ -3,6 +3,7 @@ public class Hello {
 
         System.out.println("Hello");
         //update
+        // everyone are happy to see commit dialogue
     }
 
 }
